@@ -13,7 +13,7 @@ window.FontAwesomeKitConfig = {
     v4FontFaceShim: { enabled: true },
     v4shim: { enabled: true },
     v5FontFaceShim: { enabled: true },
-    version: '6.2.0',
+    version: '6.3.0',
 };
 !(function (t) {
     'function' == typeof define && define.amd ? define('kit-loader', t) : t();
